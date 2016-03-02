@@ -1,7 +1,7 @@
 gitlab-plugin
 =====================
 
-This plugin lets you use Jenkins with GitLab.
+This plugin lets you use Jenkins with GitLab..
 
 Help Needed
 =====================
